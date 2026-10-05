@@ -52,5 +52,5 @@ Runtime, on the installed asset with the bundled self-host server:
   it to remote mode and the next answer was also on `claude-opus-5-5`.
 
 Not covered: macOS, Linux arm64, the mobile app, and the full contract suite.
-The changelog is unchanged because Opus 5.5 is already announced there; this
-makes builds from the lockfile deliver it.
+The changelog has an October 5 entry for this fix. The golden screenshots that
+show the latest changelog entries were not regenerated here.
