@@ -1,3 +1,7 @@
+# October 5 — Opus 5.5 chats started from the app
+
+- Claude chats started from the Web or mobile app on Opus 5.5 now run instead of stopping with a message that the bundled Claude Code is too old. Chats started in a terminal were not affected.
+
 # October 4 — Tidier Connections and aligned section headings
 
 - Settings › Connections lists each machine as a single row. Open a machine from its row, or choose it in New Chat. The note about offline machines now matches the page's other help text, and Show offline machines lines up with the other rows.
